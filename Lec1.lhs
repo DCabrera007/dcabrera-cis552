@@ -297,29 +297,29 @@ online](http://www.cis.upenn.edu/~cis552/homework0.html). Then replace
 `undefined` below with your answers.
 
 > name :: String
-> name = undefined
+> name = "Daniel Cabrera"
 
 > pennkey :: String
-> pennkey = undefined
+> pennkey = "dcabrera"
 
 The name of the bit bucket repository you created as part of the
 assignment.
 
 > bitbucketRepoName :: String
-> bitbucketRepoName = undefined
+> bitbucketRepoName = "dcabrera-cis552"
 
 Write a few sentences about your programming background. What
 languages have you used before? What is the size of the largest
 programs you have written in those languages?
 
 > programmingExperience :: String
-> programmingExperience = undefined
+> programmingExperience = "I have coded in Java (1000s), C (1000s), Ruby (100s), MATLAB (1000s)"
 
 What do you hope to get from CIS 552?  What do you expect to learn
 from the course?
 
 > desiredOutcome :: String
-> desiredOutcome = undefined
+> desiredOutcome = "I want to think differently about programming and abstracting problems, I want to use these tools to think about querying biology and develop a deeper understanding of the software that is life. I also want to become a better functional programmer and learn how to code in Haskell."
 
 
 
