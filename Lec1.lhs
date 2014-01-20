@@ -306,7 +306,7 @@ The name of the bit bucket repository you created as part of the
 assignment.
 
 > bitbucketRepoName :: String
-> bitbucketRepoName = "dcabrera-cis552"
+> bitbucketRepoName = "dcabrera-cis552-HW0"
 
 Write a few sentences about your programming background. What
 languages have you used before? What is the size of the largest
